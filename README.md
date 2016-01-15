@@ -23,3 +23,7 @@ $(function(){
 });
 
 ```
+
+### License
+
+MIT
