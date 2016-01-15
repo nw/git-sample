@@ -8,3 +8,18 @@
 
 ### Sub Header
 
+```html
+<body>
+  <h1> Test </h1>
+</body>
+```
+
+__test__
+
+```js
+
+$(function(){
+  alert('hi');
+});
+
+```
